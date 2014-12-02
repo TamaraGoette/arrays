@@ -12,11 +12,10 @@ public class StrUtils {
 			if (Character.isLetter(s.charAt(i))){
 			count++;
 			
-		}
-		
+		 }
+		}	
 		return count;
 	
 	}
 
   }
-}
